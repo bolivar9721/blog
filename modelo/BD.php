@@ -3,7 +3,7 @@ class BD{
     private $con;
 
     public function __construct(){
-     $this->con = new mysqli('localhost','root', '' ,'blogPersonal');
+     $this->con = new mysqli('localhost','root', '' ,'blog');
      if($this->con-> connect_error){
         die("Conexión fallida: " . $this->con-> connect_error . "<br />");
      };
