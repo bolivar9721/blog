@@ -54,5 +54,11 @@ class BD{
       $retorno = $this->retorno($query);
       return $retorno;
     }
+
+    public function getArticulosEtiqueta($etiqueta){
+      $query = $this->con->query("SELECT * FROM articulo WHERE etiqueta_id =\"".$etiqueta.\"");
+      $retorno = $this->retorno($query);
+      return $retorno;
+    }
 }
 ?>;
