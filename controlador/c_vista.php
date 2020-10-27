@@ -9,7 +9,7 @@ function lugar($i){
   switch($i){
   case 0:
     require_once('controlador/c_verArticulos.php'); 
-    include('vista/v_articulos.php');
+    include('vista/centralizadorArticulos.php');
     break;
   case 1:
     require_once('controlador/c_verEtiquetas.php');
@@ -25,7 +25,7 @@ function lugar($i){
     break;
   case 4:
     require_once('controlador/c_verArticuloEtiqueta.php');
-    include('vista/v_articuloEtiqueta.php');
+    include('vista/centralizadorArticulos.php');
   }
 }
 ?>
