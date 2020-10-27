@@ -21,7 +21,7 @@ function lugar($i){
     break;
   case 3: 
     require_once('controlador/c_verIndice.php');
-    include('vista/v_indice.php');
+    include('vista/centralizadorArticulos.php');
     break;
   case 4:
     require_once('controlador/c_verArticuloEtiqueta.php');
