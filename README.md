@@ -3,7 +3,7 @@ Blog personal, esto es un proyecto personal en el que voy a ir implementando en 
 
 Para el correcto funcionamiento del sitio, es necesario que esté enlazado con la basde de datos cuya estructura está en la carpeta modelo/DB
 
-## To Do List Blog Project
+## To Do List
 
 - [ ] Añadir links a Redes Sociales en el nav
 - [x] Centralizar Vista de artículos y vista de índice
