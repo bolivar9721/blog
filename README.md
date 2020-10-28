@@ -18,5 +18,5 @@ Para el correcto funcionamiento del sitio, es necesario que esté enlazado con l
   - [ ] Poder cambiar el logo del blog
 - [ ] Hacer responsive el blog
 	- [ ] Hacer el nav que se colapse para darle a un botón que muestre las opciones cuando se vea desde un móvil
-- [ ] Cambiar el link del nav a solo el logo en vez de todo el nav
+- [x] Cambiar el link del nav a solo el logo en vez de todo el nav
 - [ ] En etiquetas, si la etiqueta está creada, pero no tiene ningún artículo asociado, no debe mostrarse
