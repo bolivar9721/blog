@@ -14,6 +14,8 @@ Para el correcto funcionamiento del sitio, es necesario que esté enlazado con l
 - [ ] Crear una zona admin totalmente a parte
   - [ ] Crear un creador de artículos
   - [ ] Crear un login para que sea seguro
+  - [ ] Que en la zona admin, puedas elegir el link a tus redes sociales
+  - [ ] Poder cambiar el logo del blog
 - [ ] Hacer responsive el blog
 	- [ ] Hacer el nav que se colapse para darle a un botón que muestre las opciones cuando se vea desde un móvil
 - [ ] Cambiar el link del nav a solo el logo en vez de todo el nav
