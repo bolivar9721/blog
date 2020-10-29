@@ -60,5 +60,10 @@ class BD{
       $retorno = $this->retorno($query);
       return $retorno;
     }
+    public function getArticuloIndividual($i){
+      $query = $this->con->query("SELECT * FROM `articulo` WHERE id_articulo = \"".$i."\"");
+      $retorno = $this->retorno($query);
+      return $retorno;
+    }
 }
 ?>;
