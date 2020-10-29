@@ -20,3 +20,4 @@ Para el correcto funcionamiento del sitio, es necesario que esté enlazado con l
 	- [ ] Hacer el nav que se colapse para darle a un botón que muestre las opciones cuando se vea desde un móvil
 - [x] Cambiar el link del nav a solo el logo en vez de todo el nav
 - [x] En etiquetas, si la etiqueta está creada, pero no tiene ningún artículo asociado, no debe mostrarse
+- [ ] Refactorizar clase BD para usar menos metodos haciendo que los argumentos de query sean propiedades de la clase
